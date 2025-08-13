@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+ENV/
+venv/
+
+# PDF files
+*.pdf
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
